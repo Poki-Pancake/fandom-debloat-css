@@ -1,0 +1,334 @@
+/* My Custom Theme */
+
+#mixed-content-footer {
+	display: none;
+}
+
+.top-ads-container {
+	display: none;
+}
+
+.global-navigation__logo, .global-navigation__link, .global-navigation__links {
+	display: none;
+}
+
+.wds-global-footer {
+	display: none;
+}
+
+.mw-body-content .unified-search__layout__right-rail, .page-content .unified-search__layout__right-rail, .WikiaPageContentWrapper .unified-search__layout__right-rail {
+	display: none;
+}
+
+.mw-body-content .unified-search__layout, .page-content .unified-search__layout, .WikiaPageContentWrapper .unified-search__layout {
+	display: block;
+}
+
+.mw-body-content .unified-search__profiles, .page-content .unified-search__profiles, .WikiaPageContentWrapper .unified-search__profiles {
+	margin-left: 0;
+	margin-top: 0;
+	margin: auto;
+	display: flex;
+}
+
+.mw-body-content .unified-search__layout__left-rail, .page-content .unified-search__layout__left-rail, .WikiaPageContentWrapper .unified-search__layout__left-rail {
+	grid-area: none;
+	margin-right: 0;
+	display: flex;
+}
+
+.mw-body-content .unified-search__layout__main, .page-content .unified-search__layout__main, .WikiaPageContentWrapper .unified-search__layout__main {
+	grid-area: none;
+}
+
+.mw-body-content .unified-search__layout__right-rail, .page-content .unified-search__layout__right-rail, .WikiaPageContentWrapper .unified-search__layout__right-rail {
+	grid-area: none;
+}
+
+.mw-body-content .unified-search__profiles__profile, .mw-body-content .unified-search__profiles__profile__filters__filter, .page-content .unified-search__profiles__profile, .page-content .unified-search__profiles__profile__filters__filter, .WikiaPageContentWrapper .unified-search__profiles__profile, .WikiaPageContentWrapper .unified-search__profiles__profile__filters__filter {
+	margin-bottom: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-right: 6px;
+}
+
+.mw-body-content .unified-search__profiles__profile__filters, .page-content .unified-search__profiles__profile__filters, .WikiaPageContentWrapper .unified-search__profiles__profile__filters {
+	display: flex;
+	margin-right: 0;
+	margin: 0;
+}
+
+#SurveyModule {
+	display: none;
+}
+
+.fandom-community-header__background.fullScreen {
+	width: 100%;
+}
+
+.main-container {
+	margin-left: 0;
+	width: 100%;
+}
+
+.fandom-sticky-header {
+	left: 0;
+}
+
+.global-navigation {
+	width: 48px;
+	background-color: transparent;
+	box-shadow: none;
+	border-top: 0;
+}
+
+.global-footer {
+	display: none;
+}
+
+.global-navigation__bottom, .global-navigation__top {
+	background-color: var(--theme-accent-color) !important;
+	padding: 7px;
+	position: fixed;
+	margin: 9px;
+	border-radius: 3em;
+	z-index: 501;
+}
+
+.global-navigation__top {
+	display: none;
+}
+
+.global-navigation .wds-dropdown {
+	margin-left: 0 !important;
+}
+
+.global-navigation .wds-dropdown__toggle {
+	width: -moz-fit-content !important;
+	width: fit-content !important;
+}
+
+.is-content-expanded .resizable-container {
+	width: 90%;
+}
+
+.resizable-container {
+	width: 75%;
+}
+
+.search-modal, .search-modal:before {
+	left: 0;
+}
+
+.global-navigation .wds-dropdown.is-attached-to-bottom .wds-dropdown__content {
+	left: 50px;
+}
+
+.global-navigation .notifications .wds-dropdown.is-attached-to-bottom .wds-dropdown__content {
+	left: 56px;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border-radius: 5px;
+}
+
+.notifications .wds-tabber {
+	border-radius: 0;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.global-navigation .wds-dropdown__content {
+	border-radius: 5px;
+}
+
+.global-navigation .notifications .wds-dropdown.is-attached-to-bottom:before {
+	bottom: 45px;
+}
+
+.global-navigation .notifications .wds-dropdown.is-attached-to-bottom:after {
+	bottom: 48px;
+}
+
+.global-navigation__icon .wds-icon {
+	fill: var(--theme-accent-label-color);
+}
+
+.global-navigation__icon {
+	border-color: var(--theme-accent-label-color) !important;
+	width: 34px;
+	height: 34px;
+}
+
+.global-navigation__icon:hover {
+	border-color: #c7bbc7 !important;
+}
+
+.global-navigation .wds-avatar img.wds-avatar__image {
+	border: transparent solid;
+}
+
+.global-navigation .notifications__counter {
+	left: 17px;
+	background: var(--theme-accent-label-color);
+	color: var(--theme-accent-color);
+}
+
+.global-navigation .notifications .wds-tabber {
+	border: none;
+}
+
+.NotificationCard-module_card__3kKIi {
+	border: 1px solid var(--fandom-border-color);
+	margin-bottom: 3px;
+	border-radius: 3px;
+}
+
+.NotificationsContent-module_scrollableListWrapper__OyrIR>ul:after, .NotificationsContent-module_scrollableListWrapper__OyrIR>ul:before {
+	background-color: transparent !important;
+}
+
+.is-gamepedia.is-content-expanded .resizable-container {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.global-navigation {
+	width: 0;
+}
+
+.unified-search__profiles__profile__filters {
+	border: 2px solid var(--theme-link-color);
+	border-radius: 5px;
+}
+
+#highlight__main-container {
+	display: none;
+}
+
+.global-navigation__bottom .wds-dropdown__content {
+	background-color: var(--theme-page-background-color--secondary);
+	border: 1px solid var(--theme-border-color);
+}
+
+.NotificationCard-module_card__6Nucq {
+	background-color: var(--theme-page-background-color--secondary) !important;
+}
+
+.global-navigation__bottom .wds-dropdown.wds-open-to-right::after {
+	border-right-color: var(--theme-page-background-color--secondary);
+}
+
+.global-navigation__bottom .wds-dropdown.wds-open-to-right::before {
+	border-right-color: var(--theme-border-color);
+}
+
+.global-navigation__bottom .wds-dropdown__content .wds-list.wds-is-linked > li.wds-is-selected > a:not(.wds-button), .global-navigation__bottom .wds-dropdown__content .wds-list.wds-is-linked > li:hover > a:not(.wds-button) {
+	background-color: rgba(var(--theme-link-color--rgb),.15);
+	color: var(--theme-link-color);
+}
+
+.global-navigation__signout-button:hover {
+	background-color: rgba(var(--theme-link-color--rgb),.15);
+	color: var(--theme-link-color);
+}
+
+.notifications .wds-tabs__tab.wds-is-current {
+	color: var(--theme-link-color) !important;
+}
+
+.global-navigation__bottom .wds-dropdown__content .wds-list.wds-is-linked::before, .global-navigation__bottom .wds-dropdown__content .wds-list.wds-is-linked::after {
+	background-color: var(--theme-page-background-color--secondary);
+}
+
+.NotificationsZeroState-module_icon__3myHN {
+	color: var(--theme-page-text-color) !important;
+}
+
+.search-modal__content {
+	background-color: var(--theme-page-background-color--secondary);
+	border: 1px solid var(--theme-border-color);
+}
+
+.top-results__link {
+	color: var(--theme-link-color);
+}
+
+.top-results__link:hover {
+	color: var(--theme-link-color--hover);
+}
+
+.SearchInput-module_form__fAwdT {
+	border-bottom: 2px solid var(--theme-link-color) !important;
+}
+
+.search-modal__content .wds-button:not(.SearchInput-module_clearButton__TioEW) {
+	color: var(--theme-link-label-color);
+	background-color: var(--theme-link-color);
+	border: 1px solid var(--theme-link-color);
+}
+
+.search-modal__content .wds-button:hover:not(.SearchInput-module_clearButton__TioEW) {
+	background-color: var(--theme-link-color--hover);
+	border: 1px solid var(--theme-link-color--hover);
+}
+
+.SearchResults-module_results__k8itn.wds-list.wds-is-linked > li > a.SearchResults-module_seeAllResults__TFicN {
+	color: var(--theme-link-color) !important;
+}
+
+.SearchResults-module_results__k8itn.wds-list.wds-is-linked > li > a.SearchResults-module_isSelected__7oTZQ, .SearchResults-module_results__k8itn.wds-list.wds-is-linked > li > a:hover {
+	background-color: rgba(var(--theme-link-color--rgb),.15) !important;
+}
+
+.global-navigation .wds-tabber ul {
+	margin: 0 !important;
+}
+
+.global-navigation .wds-tabs__wrapper {
+	padding: 0 !important;
+}
+
+.NotificationsContent-module_markAllAsRead__LpuEV {
+	color: var(--theme-link-color) !important;
+}
+
+.wds-is-current .NotificationsContent-module_tabTotal__lYSUS {
+	background-color: var(--theme-link-color) !important;
+}
+
+.NotificationCard-module_card__6Nucq.NotificationCard-module_isUnread__18vlB .NotificationCard-module_unreadStatusDot__qcTXm {
+	background-color: var(--theme-link-color) !important;
+	border-color: var(--theme-link-color) !important;
+}
+
+.notifications .wds-avatar:hover .wds-avatar__image {
+	border-color: var(--theme-link-color) !important;
+}
+
+.notifications .wds-avatar:hover .wds-avatar__image + .NotificationCard-module_avatarIcon__T1R4v .wds-icon {
+	fill: var(--theme-link-color) !important;
+}
+
+.notifications .wds-avatar .wds-avatar__image + .NotificationCard-module_avatarIcon__T1R4v .wds-icon {
+	fill: var(--theme-page-text-color) !important;
+}
+
+.skin-fandomdesktop .LightboxModal {
+	margin-left: 0;
+}
+
+.bottom-ads-container {
+	display: none;
+}
+
+.rail-recentImages-module, .rail-recentImages-module + section {
+	display: none;
+}
+
+.top-results {
+	display: none;
+}
+
+.wikia-bar-anon {
+	display: none;
+}
