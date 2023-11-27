@@ -1,4 +1,4 @@
-# fandom-debloat-css
+# fandom-debloat.css
 A tweak css for fandom I made a year ago. Allows you to debloat fandom and make the pages wider.
 
 **Intended to be used with Ublock Origin.**
