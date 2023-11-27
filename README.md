@@ -5,7 +5,6 @@ A tweak css for fandom I made a year ago. Allows you to debloat fandom and make 
 
 ## Notable features:
 
-* Wider page UI (while keeping the width toggle button functional)
 * No wiki page bloat (Fan feed)
 * No saerch bloat (suggested communities)
 * No login buttons on the top of the page
@@ -20,14 +19,14 @@ A tweak css for fandom I made a year ago. Allows you to debloat fandom and make 
 
 ## Wiki page
 * Before:
-
+![img](https://github.com/Poki-Pancake/fandom-debloat.css/blob/main/screenshots/WikiPageBefore.png?raw=true)
 * After:
-
+![img](https://github.com/Poki-Pancake/fandom-debloat.css/blob/main/screenshots/WikiPageAfter.png?raw=true)
 ## Search page
 * Before:
-
+![img](https://github.com/Poki-Pancake/fandom-debloat.css/blob/main/screenshots/SearchPageBefore.png?raw=true)
 * After
-
+![img](https://github.com/Poki-Pancake/fandom-debloat.css/blob/main/screenshots/SearchPageAfter.png?raw=true)
 # How to use
 
 -> You may use the stylus browser extension to easily apply custom css to web pages
