@@ -12,6 +12,7 @@ A tweak css for fandom I made a year ago. Allows you to debloat fandom and make 
 * No anonymous fandom bar (ads)
 * No fandom sidebar (now replaced with the account & notification button on the bottom corner of the page)
 * No top results in search modal (risky for spoilers)
+* Colors adapts to every wiki
 * Maintained code
 * Etc...
 
