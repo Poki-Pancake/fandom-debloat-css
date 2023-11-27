@@ -27,7 +27,8 @@ A tweak css for fandom I made a year ago. Allows you to debloat fandom and make 
 
 * After
 
-# Import
-```css
-@import url(https://raw.githubusercontent.com/Poki-Pancake/fandom-debloat-css/main/fandom-debloat.css);
-```
+# How to use
+
+-> You may use the stylus browser extension to easily apply custom css to web pages
+
+[Chromium](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
