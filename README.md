@@ -35,6 +35,7 @@ A tweak css for fandom I made a year ago. Allows you to debloat fandom and make 
 
 3. Paste the following in the code box:
 ```css
+@import url(https://raw.githubusercontent.com/Poki-Pancake/fandom-debloat-css/main/fandom-debloat.css);
 ```
 
 4. Under the code box, set the dropdown to "URLs on the domain" and add `fandom.com` as the domain
